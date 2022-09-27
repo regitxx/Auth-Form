@@ -13,7 +13,7 @@
 
 - :closed_lock_with_key: Bcrypt password&hash requests.
 
-- :pill: Simple html$css index page.
+- :pill: Simple html&css index page.
 
 <br>
 <br>
