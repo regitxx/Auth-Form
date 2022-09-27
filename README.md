@@ -17,8 +17,6 @@
 
 <br>
 <br>
-<br>
-
 
 ### :clubs: Languages used in this Auth-Form
 <br>
