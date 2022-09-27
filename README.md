@@ -17,7 +17,7 @@
 
 <br>
 <br>
-### run
+# Run
 <br>
 <code>npm git clone https://github.com/regitxx/Auth-Form.git</code>
 <br>
