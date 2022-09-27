@@ -7,13 +7,13 @@
 <br>
 
 #
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :computer: Node js Authentification.
 
-- :seedling: Exploring Technical Content Writing.
+- :closed_umbrella: Login/Registration form.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :closed_lock_with_key: Bcrypt password&hash requests.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :pill: Simple html$css index page.
 
 <br>
 <br>
