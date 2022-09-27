@@ -17,10 +17,13 @@
 
 <br>
 <br>
-
+## run
+<br>
 <code>npm git clone https://github.com/regitxx/Auth-Form.git</code>
+<br>
 <code>nodemon server.js</code>
 
+<br>
 
 ### :clubs: Languages used in this Auth-Form
 <br>
