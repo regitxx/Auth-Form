@@ -1,2 +1,4 @@
 # Auth-Form
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+<div id="header" align="center">
+  <img src=""https://media4.giphy.com/media/iv67d4rQjP5spe2MGi/giphy.gif?cid=790b761128c927315ca74f818cb17d11ec30dd61b187f3fa&rid=giphy.gif&ct=g"" width="100"/>
+</div>
