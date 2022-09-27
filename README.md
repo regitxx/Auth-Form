@@ -19,9 +19,9 @@
 <br>
 
 ### Run
-<br>
 <code>nodemon server.js</code>
 
+<br>
 <br>
 
 ### :clubs: Languages used in this Auth-Form
