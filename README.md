@@ -18,8 +18,7 @@
 <br>
 <br>
 # Run
-<br>
-<code>npm git clone https://github.com/regitxx/Auth-Form.git</code>
+
 <br>
 <code>nodemon server.js</code>
 
