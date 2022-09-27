@@ -1,4 +1,4 @@
 # Auth-Form
 <div id="header" align="center">
-  <img src="https://giphy.com/embed/hTBdZxUHG2r0XwLFSL" />
+  <img src="[https://giphy.com/embed/hTBdZxUHG2r0XwLFSL](https://giphy.com/embed/hTBdZxUHG2r0XwLFSL)" />
 </div>
