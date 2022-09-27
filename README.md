@@ -1,4 +1,4 @@
 # Auth-Form
 <div id="header" align="center">
-<img src="https://satlib.cira.colostate.edu/wp-content/uploads/sites/23/2022/09/thumbnail_ian_updated.gif" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
