@@ -1,0 +1,143 @@
+<head>
+  <meta charset="UTF-8">
+  <meta content="width=device-width, initial-scale=1" name="viewport" />
+  <title>index</title>
+
+  <script src="https://kit.fontawesome.com/7af11f985c.js" crossorigin="anonymous"></script>
+</head>
+<body>
+
+<!--design of the main page-->
+
+<style>
+  * {
+    margin: 0;
+    padding: 0;
+    font-family: 'popins', sans-serif;
+    box-sizing: border-box;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  body {
+    background: #080808;
+    color: #fff;
+  }
+
+
+
+  #header {
+    width: 100%;
+    height: 100vh;
+    background-image: url("https://media4.giphy.com/media/iv67d4rQjP5spe2MGi/giphy.gif?cid=790b761128c927315ca74f818cb17d11ec30dd61b187f3fa&rid=giphy.gif&ct=g");
+
+    background-size: cover;
+    background-position: center;
+  }
+  .container {
+    padding: 10px 10%;
+
+  }
+  nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  nav ul li {
+    display: inline-block;
+    list-style: none;
+    margin: 10px 20px;
+  }
+  nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 18px;
+    position: relative;
+  }
+
+  nav ul li a::after {
+    content:  '';
+    width: 0;
+    height: 3px;
+    background: #e056fd;
+    position: absolute;
+    left: 0;
+    bottom: -6px;
+    transition: 0.5s;
+  }
+
+  nav ul li a:hover::after {
+    width: 100%;
+  }
+  .header-text {
+    margin-top: 20%;
+    font-size: 30px;
+
+
+  }
+
+  .header-text h1 {
+    font-size: 60px;
+    margin-top: 20px;
+  }
+  .header-text h1 span {
+    color: #7f8fa6;
+  }
+
+  .btn {
+    width: 100px;
+    border-radius: 7px;
+    padding: 5px 5px 5px 5px;
+    background-color: rgba(255,255,255,0.27);
+    color: #eaf0fb;
+    text-align: center;
+
+  }
+  .btn:hover {
+    background-color: rgba(255,255,255,0.47);
+  }
+
+</style>
+
+<!--End of section-->
+
+
+<div id="header">
+
+  <div class="container">
+
+    <nav>
+      <ul id="sidemenu">
+        <li><a href="#header">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#portfolio">Portfolio</a></li>
+        <li><a href="#contact">Contact</a></li>
+        <li><form action="/logout?_method=DELETE" method="POST">
+            <button type="submit" class="btn">Log Out</button>
+          </form></li>
+
+
+      </ul>
+    </nav>
+    <div class="header-text">
+      <p>
+        Test Message
+
+      </p>
+      <h1>Hi, <span><%= name %></span><br> currently Available </h1>
+
+    </div>
+
+<!--    chat-->
+
+
+<!--    end of chat-->
+
+  </div>
+
+</div>
