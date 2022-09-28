@@ -17,6 +17,7 @@ initializePassport(
   id => users.find(user => user.id === id)
 )
 
+// TODO создай файл users и читай всех юзеров оттуда при инициализации приложения, в дальнейшем db можно прикрутить вместо файла
 const users = []
 
 app.set('view-engine', 'ejs')
